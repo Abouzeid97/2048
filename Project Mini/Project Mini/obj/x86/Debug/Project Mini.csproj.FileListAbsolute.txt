@@ -1,0 +1,62 @@
+c:\users\sheri\onedrive\documents\visual studio 2010\Projects\Project Mini\Project Mini\bin\Debug\Project Mini.exe
+c:\users\sheri\onedrive\documents\visual studio 2010\Projects\Project Mini\Project Mini\bin\Debug\Project Mini.pdb
+c:\users\sheri\onedrive\documents\visual studio 2010\Projects\Project Mini\Project Mini\obj\x86\Debug\Project_Mini.Properties.Resources.resources
+c:\users\sheri\onedrive\documents\visual studio 2010\Projects\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csproj.GenerateResource.Cache
+c:\users\sheri\onedrive\documents\visual studio 2010\Projects\Project Mini\Project Mini\obj\x86\Debug\Project Mini.exe
+c:\users\sheri\onedrive\documents\visual studio 2010\Projects\Project Mini\Project Mini\obj\x86\Debug\Project Mini.pdb
+C:\Users\sheri\onedrive\documents\visual studio 2010\Projects\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csprojResolveAssemblyReference.cache
+D:\study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.exe
+D:\study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.pdb
+D:\study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csprojResolveAssemblyReference.cache
+D:\study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project_Mini.Properties.Resources.resources
+D:\study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csproj.GenerateResource.Cache
+D:\study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\Project Mini.exe
+D:\study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\Project Mini.pdb
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.exe
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.pdb
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\Project Mini.exe
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\Project Mini.pdb
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\mscorlib.dll
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\ar\mscorlib.resources.dll
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\sortkey.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\sorttbls.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\big5.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\bopomofo.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\ksc.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\prc.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\prcp.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\xjis.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\normidna.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\normnfc.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\normnfd.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\normnfkc.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\normnfkd.nlp
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csproj.AssemblyReference.cache
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project_Mini.Properties.Resources.resources
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csproj.GenerateResource.cache
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csproj.CoreCompileInputs.cache
+F:\Study\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csproj.CopyComplete
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\Project Mini.exe
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\Project Mini.pdb
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\mscorlib.dll
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\ar\mscorlib.resources.dll
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\sortkey.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\sorttbls.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\big5.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\bopomofo.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\ksc.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\prc.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\prcp.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\xjis.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\normidna.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\normnfc.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\normnfd.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\normnfkc.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\bin\Debug\normnfkd.nlp
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csproj.AssemblyReference.cache
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project_Mini.Properties.Resources.resources
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csproj.GenerateResource.cache
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csproj.CoreCompileInputs.cache
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.csproj.CopyComplete
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.exe
+F:\University\Semester 4\CS232 Multimedia Programming\Assignments & Quizzes\Project Mini\Project Mini\obj\x86\Debug\Project Mini.pdb
